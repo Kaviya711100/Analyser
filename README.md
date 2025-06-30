@@ -4,7 +4,7 @@
 
 This project presents a **data-driven business analysis** for a restaurant aiming to enhance its performance through actionable insights derived from historical data. By identifying trends, customer preferences, and operational inefficiencies, this analysis supports data-informed decision-making for business growth.
 
----
+
 
 ## 🎯 Objective
 
@@ -14,7 +14,7 @@ To analyze restaurant sales and customer data to:
 - Understand peak business hours and customer behavior  
 - Recommend strategies to improve sales, customer satisfaction, and operational efficiency
 
----
+
 
 ## 🧠 Key Insights
 
@@ -23,7 +23,7 @@ To analyze restaurant sales and customer data to:
 - **Customer Behavior**: Repeat customer patterns and satisfaction drivers  
 - **Operational Bottlenecks**: Insights into staff utilization and resource allocation
 
----
+
 
 ## 📈 Tools & Technologies
 
@@ -32,7 +32,7 @@ To analyze restaurant sales and customer data to:
 - **Python / R (optional)** – For advanced analytics and automation  
 - **SQL** – Data querying and aggregation
 
----
+
 
 ## 📌 Features
 
@@ -41,17 +41,20 @@ To analyze restaurant sales and customer data to:
 - Customer segmentation insights  
 - Marketing strategy suggestions based on historical data
 
----
+
 
 ## 📁 Project Structure
 
-├── data/ # Raw and cleaned datasets
-├── dashboards/ # Visual analytics (Tableau/Power BI)
-├── reports/ # Presentation and summary reports
-├── scripts/ # Data processing scripts (if applicable)
-└── README.md # Project overview and guide
+├── data/                         # Raw and cleaned datasets  
+├── dashboards/                   # Tableau / Power BI dashboards  
+├── reports/                      # Summary reports and presentations  
+├── scripts/                      # Data cleaning and analysis scripts  
+├── visuals/                      # Charts and screenshots (optional)  
+├── DATA DRIVEN-BUSINESS ANALYST FOR RESTAURANT.pptx   # Main presentation  
+├── LICENSE                       # License information  
+└── README.md                     # Project overview and documentation  
 
----
+
 
 ## 📌 Recommendations (from analysis)
 
