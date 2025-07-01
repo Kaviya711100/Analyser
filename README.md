@@ -65,11 +65,6 @@ To analyze restaurant sales and customer data to:
 
 
 
-## 📽️ Presentation
-
-Refer to the **`DATA DRIVEN-BUSINESS ANALYST FOR RESTAURANT.pptx`** file for detailed visual insights and summaries.
-
-
 ## 🤝 Contribution
 
 Feel free to **fork this project**, **open issues**, or **submit pull requests** if you wish to enhance the analysis or visuals.
